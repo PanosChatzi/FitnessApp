@@ -1,0 +1,8 @@
+#To install the dependecies use: pip install -r requirements.txt
+
+pandas
+sqlalchemy
+pyodbc
+
+
+
