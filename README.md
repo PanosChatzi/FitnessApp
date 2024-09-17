@@ -1,4 +1,4 @@
-# Fitness App
+# Fitness database
 
 Welcome to the Fitness Database ETL Pipeline! This pipeline is designed to extract workout data files from Intervals.icu, transform the data and load it into a Microsoft SQL database using Python.
 
