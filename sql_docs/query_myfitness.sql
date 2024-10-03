@@ -1,5 +1,4 @@
 USE [myFitnessApp]
-
 SELECT DB_NAME() AS CurrentDatabase
 GO
 

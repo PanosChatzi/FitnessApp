@@ -1,4 +1,8 @@
+CREATE DATABASE [myFitnessApp]
+GO
+
 USE [myFitnessApp]
+GO 
 
 CREATE TABLE FitnessData (
     AthleteId VARCHAR(50) NOT NULL,
@@ -9,7 +13,7 @@ CREATE TABLE FitnessData (
     MovingTime FLOAT NOT NULL,
     Name VARCHAR(255) NOT NULL,
     AvgHR INT NULL,
-    IntensityPercent INT NOT NULL,
+    IntensityPercent INT NULL,
     AvgAltitude FLOAT NOT NULL,
     AvgHRPercent INT NULL,
     ElapsedTime FLOAT NOT NULL,
